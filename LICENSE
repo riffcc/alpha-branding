@@ -1,6 +1,12 @@
 MIT License
 
 Copyright (c) 2021 Riff.CC Alpha
+Portions taken from other open source projects under fair use.
+These include input from:
+- Dogecoin's Discord community
+- Cruip's open-react-template (#colour)
+- Riff.CC Foundation
+Please see the README.md for the best explanation.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
